@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashsonawale&label=Profile%20views&color=0e75b6&style=flat" alt="akashsonawale" /> </p>
 
-- ⚡ Fun fact **im not funny😡🥴**
+- ⚡ third year computer science **💻🎮**
 - ❤️ love gaming **💕💕**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
