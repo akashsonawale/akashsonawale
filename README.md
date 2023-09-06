@@ -1,3 +1,4 @@
+![MasterHEAD](https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=1060&t=st=1694024042~exp=1694024642~hmac=c7f3d7ae6ba5a16bcdbf355beffce2b79df67de972baf4cb47ddccaef5b48734)
 <h1 align="center">Hi 👋, I'm Akash Sonawale</h1>
 <h3 align="center">studying in computer science</h3>
 
