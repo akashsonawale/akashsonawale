@@ -1,4 +1,4 @@
-![MasterHEAD](https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?w=1060&t=st=1694024042~exp=1694024642~hmac=c7f3d7ae6ba5a16bcdbf355beffce2b79df67de972baf4cb47ddccaef5b48734)
+![MasterHEAD](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm Akash Sonawale</h1>
 <h3 align="center">studying in computer science</h3>
 
